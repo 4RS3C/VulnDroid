@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**VulnDroid** is the ultimate automation toolkit for Android emulator testing, crafted for red teamers, pentesters, and app security enthusiasts. With a sleek, colorful CLI, it streamlines complex tasks like rooting emulators, setting up Frida for bypasses, installing Burp certificates, and more—saving you hours of manual setup. Whether you’re breaking apps or testing defenses, BrutDroid is your go-to weapon.
+**VulnDroid** is the ultimate automation toolkit for Android emulator testing, crafted for red teamers, pentesters, and app security enthusiasts. With a sleek, colorful CLI, it streamlines complex tasks like rooting emulators, setting up Frida for bypasses, installing Burp certificates, and more—saving you hours of manual setup. Whether you’re breaking apps or testing defenses, VulnDroid is your go-to weapon.
 
 🔥 **Why VulnDroid?**  
 - Automates tedious emulator setup with one command.  
@@ -55,7 +55,7 @@ cd VulnDroid
 pip install -r requirements.txt
 ```
 
-### 3. Run BrutDroid:
+### 3. Run VulnDroid:
 ```bash
 python VulnDroid.py
 ```
@@ -75,7 +75,7 @@ python VulnDroid.py
 - **Install Tools**: Deploy `frida-tools`, `objection`, `reflutter`, etc.  
 - **Configure Emulator**: Install Frida server, Burp certs, and more.  
 - **Frida Tools**: Run SSL/root bypasses or start Frida server.  
-- **Exit**: Close BrutDroid.
+- **Exit**: Close VulnDroid.
 
 ---
 
@@ -118,5 +118,5 @@ VulnDroid stands on the shoulders of giants:
 ---
 
 <p align="center">
-  <em>Hack smart. Break hard. Stay Brut.</em>
+  <em>Hack smart. Break hard. Stay Lite.</em>
 </p>
