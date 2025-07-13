@@ -47,7 +47,7 @@ Get VulnDroid up and running in minutes:
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/4RS3C/VulnDroid.git
-cd BrutDroid
+cd VulnDroid
 ```
 
 ### 2. Install Dependencies:
@@ -102,20 +102,6 @@ python VulnDroid.py
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="Screenshots/1.png" alt="BrutDroid Screenshot" width="600"/>
-  <br>
-  <u><em>BrutDroid’s vibrant CLI in action.</em></u>
-</p>
-
----
-
-## 📺 Full Walkthrough – BrutDroid Toolkit
-
-
----
 
 ## 🙏 Credits
 
