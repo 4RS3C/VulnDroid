@@ -46,7 +46,7 @@ Get VulnDroid up and running in minutes:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://........git
+git clone https://github.com/4RS3C/VulnDroid.git
 cd BrutDroid
 ```
 
